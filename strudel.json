@@ -1,9 +1,16 @@
-{"_base": "https://raw.githubusercontent.com/ross-sec-audio/dsamples/main/",
- "hh":["sounds/dnb-hh.wav"],	
- "bd":["sounds/dnb-kik1.wav"],
- "oh":["sounds/dnb-oh.wav"],
- "rd":["sounds/dnb-rd.wav"],
- "rim":["sounds/dnb-rim.wav"],
- "sh":["sounds/dnb-sh.wav"],
- "sd":["sounds/dnb-sn.wav"]
+{
+  "_base": "https://raw.githubusercontent.com/ross-sec-audio/dsamples/main/",
+  "hh":["sounds/dnb-hh.wav"],
+ 
+  "bd":["sounds/dnb-kik1.wav"],
+ 
+  "oh":["sounds/dnb-oh.wav"],
+ 
+  "rd":["sounds/dnb-rd.wav"],
+ 
+  "rim":["sounds/dnb-rim.wav"],
+ 
+  "sh":["sounds/dnb-sh.wav"],
+ 
+  "sd":["sounds/dnb-sn.wav"]
  }
