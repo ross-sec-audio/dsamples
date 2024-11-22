@@ -1,4 +1,6 @@
 {"_base":"https://raw.githubusercontent.com/ross-sec-audio/dsamples/main/",
- "EXAMPLE":["sounds/EXAMPLE.wav"],
- "EXAMPLE2":["sounds/Example2.wav"],
+  "bassdrum": "bd/dnb-kik.wav",
+  "snaredrum": "sd/dnb-sn.wav",
+  "hihat": "hh/dnb-ch.wav",
+  "openhat": "oh/dnb-oh.wav",
 }
