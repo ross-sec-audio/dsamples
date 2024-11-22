@@ -1,6 +1,9 @@
 {"_base":"https://raw.githubusercontent.com/ross-sec-audio/dsamples/main/",
-  "bassdrum": "bd/dnb-kik.wav",
-  "snaredrum": "sd/dnb-sn.wav",
-  "hihat": "hh/dnb-ch.wav",
-  "openhat": "oh/dnb-oh.wav",
+  "bd": "sounds/dnb-kik1.wav",
+  "sd": "sounds/dnb-sn.wav",
+  "hh": "sounds/dnb-hh.wav",
+  "oh": "sounds/dnb-oh.wav",
+  "rim": "sounds/dnb-rim.wav",
+  "rd": "sounds/dnb-rd.wav",
+  "sh": "sounds/dnb-sh.wav",
 }
